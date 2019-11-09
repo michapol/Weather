@@ -1,2 +1,0 @@
-# Weather
-Weather Demo App
